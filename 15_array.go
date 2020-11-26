@@ -3,6 +3,8 @@ package main
 import "fmt"
 
 func main() {
+
+	//array atau larik
 	var names [5]string
 
 	names[0] = "Fudzer"
